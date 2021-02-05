@@ -182,3 +182,25 @@ footer .glyphicon {
     width:100%;
     position:absolute;
 }
+
+.bottom-line {
+    border-bottom:  2px solid #000;
+    width: 20%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.bottom-line-about {
+    border-bottom: 2px solid #000;
+    width: 22%;
+    margin-right: auto;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.line {
+    border-bottom: 1px solid #000;
+}
