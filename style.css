@@ -74,7 +74,7 @@
     color: #5558e2;
 }
 .panel-heading {
-    color: #fff !important;
+    color: rgb(30, 110, 230) !important;
     background-color: #5558e2 !important;
     padding: 25px;
     border-bottom: 1px solid transparent;
@@ -100,25 +100,25 @@
 }
 .navbar {
     margin-bottom: 0;
-    background-color: #5558e2;
+    background-color: #f4f4f8;
     z-index: 9999;
     border: 0;
-    font-size: 12px !important;
+    font-size: 14px !important;
     line-height: 1.42857143 !important;
     letter-spacing: 4px;
     border-radius: 0;
     font-family: 'BankGothic-Regular';
 }
 .navbar li a, .navbar .navbar-brand {
-    color: #fff !important;
+    color: #5558e2 !important;
 }
 .navbar-nav li a:hover, .navbar-nav li.active a {
     color: #5558e2 !important;
-    background-color: #fff !important;
+    background-color: white !important;
 }
 .navbar-default .navbar-toggle {
     border-color: transparent;
-    color: #fff !important;
+    color: #5558e2 !important;
 }
 footer .glyphicon {
     font-size: 20px;
