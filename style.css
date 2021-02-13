@@ -204,3 +204,16 @@ footer .glyphicon {
 .line {
     border-bottom: 1px solid #000;
 }
+
+.ava {
+    color: white; 
+    font-size: 30px;
+}
+
+.img-alg {
+    margin-top: 30%;
+}
+
+.prop-font {
+    font-family: -webkit-pictograph;
+}
