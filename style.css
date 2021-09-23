@@ -1,3 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500&display=swap");
+body{
+    font-family: "Poppins", sans-serif !important;
+}
 .view-products{
     color:#000;
 }
@@ -217,3 +221,18 @@ footer .glyphicon {
 .prop-font {
     font-family: -webkit-pictograph;
 }
+
+.wh-500 {
+    height: 500px;
+    width: 500px;
+}
+
+.mt-60-minus {
+    margin-top: -60px;
+    
+}
+
+.bg-alternate-blue {
+    background-color: #291919;
+}
+
